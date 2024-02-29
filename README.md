@@ -5,3 +5,5 @@
 <pre>
   python3 port_scan.py
 </pre>
+
+ou abra o código em algum visualizador como Visual Studio e execute o script
